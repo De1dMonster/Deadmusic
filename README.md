@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/SAIFDEAD/DEADMUSIC/stargazers"><img src="https://img.shields.io/github/stars/SAIFDEAD/DEADMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/SAIFDEAD/DEADMUSIC/network/members"> <img src="https://img.shields.io/github/forks/SAIFDEAD/DEADMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/SAIFDEAD/DEADMUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/De1dMonster/Deadmusic/stargazers"><img src="https://img.shields.io/github/stars/De1dMonster/Deadmusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/De1dMonster/Deadmusic/network/members"> <img src="https://img.shields.io/github/forks/De1dMonster/Deadmusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/De1dMonster/Deadmusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/SAIFDEAD/DEADMUSIC/commits/TeamInflex"> <img src="https://img.shields.io/github/last-commit/SAIFDEAD/DEADMUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/De1dMonster/Deadmusic/commits/TeamInflex"> <img src="https://img.shields.io/github/last-commit/De1dMonster/Deadmusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 
