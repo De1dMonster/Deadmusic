@@ -1,7 +1,7 @@
 {
-    "name": "Inflex Music Bot",
+    "name": "𝗗𝗘𝗔𝗗 𝗠𝗨𝗦𝗜𝗖",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/d6a63fe91240f0b271f7f.jpg",
+    "logo": "https://telegra.ph/file/5fb2c06d8610256c12df5.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "6585111267",
         "required": true
       },
       "STRING_SESSION": {
