@@ -36,26 +36,26 @@ async def init():
     await app.start()
     for all_module in ALL_MODULES:
         importlib.import_module("InflexMusic.plugins" + all_module)
-    LOGGER("InflexMusic.plugins").info("Successfully Imported Modules...")
+    LOGGER("DeadMusic.plugins").info("Successfully Imported Modules...")
     await userbot.start()
     await Inflex.start()
     try:
         await Inflex.stream_call("https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4")
     except NoActiveGroupCall:
-        LOGGER("InflexMusic").error(
+        LOGGER("DeadMusic").error(
             "Please turn on the videochat of your log group\channel.\n\nStopping Bot..."
         )
         exit()
     except:
         pass
     await Inflex.decorators()
-    LOGGER("InflexMusic").info(
-        "Inflex Music Bot Started Successfully"
+    LOGGER("DeadMusic").info(
+        "Dead Music Bot Started Successfully"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("InflexMusic").info("Stopping Inflex Music Bot...")
+    LOGGER("DeadMusic").info("Stopping Dead Music Bot...")
 
 
 if __name__ == "__main__":
